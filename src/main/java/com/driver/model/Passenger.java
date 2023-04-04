@@ -24,7 +24,6 @@ public class Passenger {
     private int age;
 
     //passengers and tickets are many to manny
-
     public Passenger() {
     }
 
